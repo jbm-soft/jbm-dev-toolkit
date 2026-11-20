@@ -3,7 +3,7 @@
 Curated collection of reusable modules, utilities, UI components, and automation scripts extracted from real-world **JBM SOFT** projects across **Flutter/Dart**, **Next.js/TypeScript**, **Python**, and **C#**.
 
 > 🌐 Website: [https://jbmsoft.co.kr](https://jbmsoft.co.kr)  
-> 📦 New modules are reviewed, sanitized, and published incrementally.
+> 📦 Published Modules: **1**
 
 ---
 
@@ -11,7 +11,7 @@ Curated collection of reusable modules, utilities, UI components, and automation
 
 | Category | Module | Language | Summary |
 | --- | --- | --- | --- |
-| *(Modules will appear here as they are published)* | | | |
+| `flutter-dart` | [hud.dart](modules/flutter-dart/1005-idle-senchakjun-hud) | `Dart / Flutter` | Reusable Dart / Flutter module featuring `CurrencyChip` (`hud.dart`). |
 
 ---
 
