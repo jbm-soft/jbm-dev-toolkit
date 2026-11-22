@@ -16,5 +16,14 @@
     "filename": "ToolApp.tsx",
     "summary": "Reusable TypeScript / React module featuring `Panel` (`ToolApp.tsx`).",
     "published_at": "2026-11-21T09:17:27"
+  },
+  {
+    "id": "009-tickerspinapp-shaderutils-d60787",
+    "dir_name": "009-tickerspinapp-shaderutils",
+    "category": "csharp-utils",
+    "language": "C#",
+    "filename": "ShaderUtils.cs",
+    "summary": "Various utility functions for shaders in URP.",
+    "published_at": "2026-11-22T09:17:29"
   }
 ]
