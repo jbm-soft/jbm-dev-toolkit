@@ -25,5 +25,14 @@
     "filename": "ShaderUtils.cs",
     "summary": "Various utility functions for shaders in URP.",
     "published_at": "2026-11-22T09:17:29"
+  },
+  {
+    "id": "spirit-tree-game-providers-f96746",
+    "dir_name": "spirit-tree-game-providers",
+    "category": "flutter-dart",
+    "language": "Dart / Flutter",
+    "filename": "providers.dart",
+    "summary": "--- Core Game Provider ---",
+    "published_at": "2026-11-22T19:17:33"
   }
 ]
