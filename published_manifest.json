@@ -52,5 +52,14 @@
     "filename": "TileUtility.cs",
     "summary": "Utility class for creating Tiles",
     "published_at": "2026-11-23T19:17:32"
+  },
+  {
+    "id": "1003-kpopdemonhunters-metadata-f7124d",
+    "dir_name": "1003-kpopdemonhunters-metadata",
+    "category": "csharp-utils",
+    "language": "C#",
+    "filename": "Metadata.cs",
+    "summary": "if USE_CUSTOM_METADATA",
+    "published_at": "2026-11-24T09:17:33"
   }
 ]
