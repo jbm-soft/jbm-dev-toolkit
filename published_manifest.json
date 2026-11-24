@@ -61,5 +61,14 @@
     "filename": "Metadata.cs",
     "summary": "if USE_CUSTOM_METADATA",
     "published_at": "2026-11-24T09:17:33"
+  },
+  {
+    "id": "spirit-tree-game-iap-manager-142598",
+    "dir_name": "spirit-tree-game-iap-manager",
+    "category": "flutter-dart",
+    "language": "Dart / Flutter",
+    "filename": "iap_manager.dart",
+    "summary": "Reusable Dart / Flutter module featuring `IAPManager` (`iap_manager.dart`).",
+    "published_at": "2026-11-24T19:17:33"
   }
 ]
