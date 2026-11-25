@@ -18,15 +18,6 @@
     "published_at": "2026-11-21T09:17:27"
   },
   {
-    "id": "009-tickerspinapp-shaderutils-d60787",
-    "dir_name": "009-tickerspinapp-shaderutils",
-    "category": "csharp-utils",
-    "language": "C#",
-    "filename": "ShaderUtils.cs",
-    "summary": "Various utility functions for shaders in URP.",
-    "published_at": "2026-11-22T09:17:29"
-  },
-  {
     "id": "spirit-tree-game-providers-f96746",
     "dir_name": "spirit-tree-game-providers",
     "category": "flutter-dart",
@@ -36,33 +27,6 @@
     "published_at": "2026-11-22T19:17:33"
   },
   {
-    "id": "007-soda-pop-crush-renderinglayerutils-e83ffc",
-    "dir_name": "007-soda-pop-crush-renderinglayerutils",
-    "category": "csharp-utils",
-    "language": "C#",
-    "filename": "RenderingLayerUtils.cs",
-    "summary": "Helper class for handling rendering layers.",
-    "published_at": "2026-11-23T09:17:34"
-  },
-  {
-    "id": "006-onecircle-orbittap-tileutility-45052e",
-    "dir_name": "006-onecircle-orbittap-tileutility",
-    "category": "csharp-utils",
-    "language": "C#",
-    "filename": "TileUtility.cs",
-    "summary": "Utility class for creating Tiles",
-    "published_at": "2026-11-23T19:17:32"
-  },
-  {
-    "id": "1003-kpopdemonhunters-metadata-f7124d",
-    "dir_name": "1003-kpopdemonhunters-metadata",
-    "category": "csharp-utils",
-    "language": "C#",
-    "filename": "Metadata.cs",
-    "summary": "if USE_CUSTOM_METADATA",
-    "published_at": "2026-11-24T09:17:33"
-  },
-  {
     "id": "spirit-tree-game-iap-manager-142598",
     "dir_name": "spirit-tree-game-iap-manager",
     "category": "flutter-dart",
@@ -70,14 +34,5 @@
     "filename": "iap_manager.dart",
     "summary": "Reusable Dart / Flutter module featuring `IAPManager` (`iap_manager.dart`).",
     "published_at": "2026-11-24T19:17:33"
-  },
-  {
-    "id": "008-mood-traker-textureimporterutilities-280a6c",
-    "dir_name": "008-mood-traker-textureimporterutilities",
-    "category": "csharp-utils",
-    "language": "C#",
-    "filename": "TextureImporterUtilities.cs",
-    "summary": "Reusable C# module featuring `TextureImporterUtilities` (`TextureImporterUtilities.cs`).",
-    "published_at": "2026-11-25T09:17:34"
   }
 ]
