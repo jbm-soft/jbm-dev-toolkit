@@ -70,5 +70,14 @@
     "filename": "iap_manager.dart",
     "summary": "Reusable Dart / Flutter module featuring `IAPManager` (`iap_manager.dart`).",
     "published_at": "2026-11-24T19:17:33"
+  },
+  {
+    "id": "008-mood-traker-textureimporterutilities-280a6c",
+    "dir_name": "008-mood-traker-textureimporterutilities",
+    "category": "csharp-utils",
+    "language": "C#",
+    "filename": "TextureImporterUtilities.cs",
+    "summary": "Reusable C# module featuring `TextureImporterUtilities` (`TextureImporterUtilities.cs`).",
+    "published_at": "2026-11-25T09:17:34"
   }
 ]
